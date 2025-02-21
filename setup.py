@@ -39,7 +39,7 @@ class CustomInstallCommand(install):
  
 setuptools.setup(
     name="PyPeridyno",
-    version="0.9.2",
+    version="1.0.1",
     author="unibeam",
     author_email="xiaowei@iscas.ac.cn",
     description="A python package for Peridyno",
